@@ -1,6 +1,6 @@
 # Avel Aero Take-Home: charter-inquiry workflow engine
 
-A small Python CLI that runs a four-step charter workflow (check availability, prepare quote, wait for human approval, send quote). It retries failed tool calls, pauses before any outbound action, and records every state change. All external services are mocked. No dependencies beyond Python 3.8+.
+A small Python CLI that runs a four-step charter workflow (check availability, prepare quote, wait for human approval, send quote). It retries failed tool calls, pauses before any outbound action, and records every state change. All external services are mocked.
 
 ## Run
 
